@@ -1,2 +1,2 @@
 # hello-world
-screwing around adn learning
+screwing around and learning
